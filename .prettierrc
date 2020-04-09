@@ -1,4 +1,4 @@
 {
   "singleQuote": true,
-  "tailingComma": "es5"
+  "trailingComma": "es5"
 }
