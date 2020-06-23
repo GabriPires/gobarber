@@ -44,4 +44,4 @@ Em breve 😅
 
 ---
 
-Feito com :heart: pelo [Champs](https://gtihub.com/GabriPires)
+Feito com :heart: pelo [Champs](https://github.com/GabriPires)
