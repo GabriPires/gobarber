@@ -27,7 +27,7 @@
 
 ## :computer: Tecnologias Utilizadas
 
-- [Node]([https://nodejs.org/en/](https://nodejs.org/en/))
+- [Node]((https://nodejs.org/en/))
 - [Docker](https://docker.com)
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
