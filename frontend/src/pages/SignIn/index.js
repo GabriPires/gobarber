@@ -3,8 +3,6 @@ import { Link } from 'react-router-dom';
 
 import logo from '~/assets/logo.svg';
 
-// import { Container } from './styles';
-
 function SignIn() {
   return (
     <>
